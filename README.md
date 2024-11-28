@@ -2,7 +2,7 @@
 
 ## **GH-Kernel-Anomaly-Detection**
 
-This repository contains implementations of various anomaly detection algorithms and methods. It includes deep learning models, kernel-based approaches, and traditional methods for anomaly detection on synthetic datasets. The focus is on flexibility, ease of use, and reproducibility.
+This repository contains implementations of various anomaly detection algorithms and methods. It includes deep learning models, kernel-based approaches, and traditional methods for anomaly detection. The focus is on flexibility and ease of use.
 
 ## **Repository Structure**
 
