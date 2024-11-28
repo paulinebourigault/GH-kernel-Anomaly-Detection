@@ -3,7 +3,7 @@
 This repository contains implementations of various anomaly detection algorithms and methods. It includes deep learning models, kernel-based approaches, and traditional methods for anomaly detection. The focus is on flexibility and ease of use.
 
 <div align="center">
-![ICASSP_workflow-anomalydetection](https://github.com/user-attachments/assets/2a281916-e79a-498a-b5a8-fa26ecf1c489)
+  <img width="50%" alt="teaser" src="[ICASSP_workflow-anomalydetection](https://github.com/user-attachments/assets/2a281916-e79a-498a-b5a8-fa26ecf1c489)"/>
 </div>
 
 ## **Repository Structure**
