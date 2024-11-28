@@ -1,6 +1,6 @@
 # Kernel-Based Anomaly Detection Using Generalized Hyperbolic Processes
 
-This repository contains implementations of various anomaly detection algorithms and methods. It includes deep learning models, kernel-based approaches, and traditional methods for anomaly detection. The focus is on flexibility and ease of use.
+This repository contains implementations of various anomaly detection algorithms and methods. It includes deep learning models, kernel-based approaches, and traditional methods for anomaly detection. GH kernels enhance flexibility, ease of use, and interpretability.
 
 ## **Repository Structure**
 
