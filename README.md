@@ -2,7 +2,7 @@
 
 This repository contains implementations of various anomaly detection algorithms. It includes deep learning models, kernel-based approaches, and traditional methods for anomaly detection. Here, Kernel density estimation (KDE) and Support Vector Machine (SVM) with Generalized Hyperbolic (GH) kernels that enhance flexibility are introduced for anomaly detection.
 
-<img src=img/workflow-anomalydetection.png width="100%"/>
+<img src=img/workflow-anomalydetection.png width="40%"/>
 
 ## **Repository Structure**
 
