@@ -1,6 +1,6 @@
 # Kernel-Based Anomaly Detection Using Generalized Hyperbolic Processes
 
-This repository contains implementations of various anomaly detection algorithms. It includes deep learning models, kernel-based approaches, and traditional methods for anomaly detection. Here, Kernel density estimation (KDE) and Support Vector Machine (SVM) with Generalized Hyperbolic (GH) kernels that enhance flexibility are introduced for anomaly detection.
+We present a novel approach to anomaly detection by integrating Generalized Hyperbolic (GH) processes into kernel-based methods. The GH distribution, known for its flexibility in modeling skewness, heavy tails, and kurtosis, helps to capture complex patterns in data that deviate from Gaussian assumptions. We propose a GH-process-based kernel function and utilize it within kernel density estimation (KDE) and One- Class Support Vector Machines (OCSVM) to develop robust anomaly detection frameworks. Theoretical results confirm the positive semi-definiteness and consistency of the GH-based kernel, ensuring its suitability for machine learning applications.
 
 <p align="center" width="100%">
     <img src=img/workflow-anomalydetection.png width="25%"/>
